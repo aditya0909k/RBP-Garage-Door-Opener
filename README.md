@@ -1,12 +1,12 @@
 This is a very simple project using. The materials I used are as follows:
 
-Raspberry Pi Zero W
-GPIO Header Pins
-Soldering Iron, Solder, Desoldering Wick, Brass Sponge
-Female to Female Jumper Wires
-Two Core Wire
-5V 2 Channel Relay Switch
-8GB MicroSD Card
+Raspberry Pi Zero W  
+GPIO Header Pins  
+Soldering Iron, Solder, Desoldering Wick, Brass Sponge  
+Female to Female Jumper Wires  
+Two Core Wire  
+5V 2 Channel Relay Switch  
+8GB MicroSD Card  
 
 Steps I took:
 
