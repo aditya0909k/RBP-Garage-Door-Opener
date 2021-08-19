@@ -1,7 +1,6 @@
 import time
 import RPi.GPIO as GPIO
 from flask import Flask, render_template, request
-from selenium import webdriver
 app = Flask(__name__)
 
 GPIO.setwarnings(False)
