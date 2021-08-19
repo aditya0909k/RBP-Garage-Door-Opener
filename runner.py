@@ -13,6 +13,9 @@ GPIO.output(11, True)
 
 @app.route('/', methods=['GET', 'POST'])
 def index():
+    GPIO.output(7, False)
+    time.sleep(.8)
+    GPIO.output(7, True)
     return render_template('index.html')
     
 @app.route('/login', methods=['GET', 'POST'])
