@@ -31,3 +31,7 @@ Pictures of hardware:
 ![IMG_2586](https://user-images.githubusercontent.com/85547196/139165044-aad9c2a1-0e4c-43fb-84d7-774dd72ffb3c.JPG)  
   
 Pictures of app:  
+![IMG_3061](https://user-images.githubusercontent.com/85547196/139525479-79ec84f6-b935-4991-9516-0b52ef03f223.PNG)  
+  
+Video demonstration:  
+https://user-images.githubusercontent.com/85547196/139525603-c5152384-deb4-4325-aaf4-c6107bcba698.mp4
